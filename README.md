@@ -38,7 +38,7 @@ MIT © [Hasura](http://hasura.io/)
 
 [npm-image]: https://badge.fury.io/js/generator-hasura-node.svg
 [npm-url]: https://npmjs.org/package/generator-hasura-node
-[travis-image]: https://travis-ci.org/hasrua/generator-hasura-node.svg?branch=master
-[travis-url]: https://travis-ci.org/hasrua/generator-hasura-node
-[daviddm-image]: https://david-dm.org/hasrua/generator-hasura-node.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/hasrua/generator-hasura-node
+[travis-image]: https://travis-ci.org/hasura/generator-hasura-node.svg?branch=master
+[travis-url]: https://travis-ci.org/hasura/generator-hasura-node
+[daviddm-image]: https://david-dm.org/hasura/generator-hasura-node.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/hasura/generator-hasura-node
