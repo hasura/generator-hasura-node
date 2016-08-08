@@ -1,6 +1,6 @@
 {
   "name": "generator-hasura-node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Builds a simple scaffold to make a server app using Express. Includes Babel, ESLint and Nodemon for reloading.",
   "homepage": "http://hasura.io/",
   "author": {
@@ -46,7 +46,7 @@
       "mocha": true
     }
   },
-  "repository": "hasura/generator-hasura-web",
+  "repository": "hasura/generator-hasura-node",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
